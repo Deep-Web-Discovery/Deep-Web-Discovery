@@ -3,10 +3,11 @@
 <h3 align="center">A committed Full Stack Developer based in...!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-27015-blueviolet" alt="Profile Views">
 </p>
+
 
 - 🔭 I’m currently working on **Vexa Web App**
 
