@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-32457-blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-37541-blueviolet" alt="Profile Views">
 </p>
 
 
